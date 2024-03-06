@@ -1,8 +1,8 @@
 ## Predicting Acute Kidney Injury in ICU patients: a data-driven modelling approach
 
 
-The given were used to predict acute kidney injury in ICU paitents aged>=18 years. 
-AdaBoosting and Gradient Boosting showed best performace in predicting where a patient admitted in ICU develops AKI or not. 
+The codes were used to predict acute kidney injury in ICU paitents aged>=18 years. 
+AdaBoosting and Gradient Boosting showed best performace in predicting whether a patient admitted in ICU develops AKI or not. 
 
 AdaBoost (test set): f1-score = 0.7909, accuracy = 0.7053
 Gradient Boost (test set): f1-score = 0.7854, accuracy = 0.7003
